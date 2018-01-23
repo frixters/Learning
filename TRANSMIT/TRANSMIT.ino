@@ -3,7 +3,6 @@
      Arduino IDE version 1.0.5
      Website: http://arduinobasics.blogspot.com
      Transmitter: FS1000A/XY-FST
-     Transmitter: Tx-118s-4
      Description: A simple sketch used to test RF transmission with tx-118s-4 transmitter module         
  ------------------------------------------------------------- */
 
